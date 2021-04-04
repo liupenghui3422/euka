@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: fastwave-cloud-zuul
+Implementation-Version: 4.0-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: fastwave
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/fastwave-com
+ mon-pom/fastwave-cloud-zuul/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
